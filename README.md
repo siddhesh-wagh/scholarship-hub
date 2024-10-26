@@ -32,6 +32,7 @@ This project aims to bridge the gap between students and government resources, m
 
 ## 🔒 Backend Access
 The backend of this project is built with **PHP** and includes additional features such as:
+This repository includes the frontend code for ScholarshipHub. For those interested in the backend aspects of this project, including data handling, server-side logic, and additional documentation:
 - **User Authentication**: Secure login and registration
 - **Data Validation**: Ensuring the accuracy of user inputs
 - **Server-Side Data Handling**: For storing and managing application data
@@ -57,5 +58,3 @@ Contributions and feedback are welcome! Please open an issue or submit a pull re
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-This README will not only provide clarity but will also make it easy for potential collaborators to get in touch regarding the backend code. Let me know if you’d like any further tweaks!
