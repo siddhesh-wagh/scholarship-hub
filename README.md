@@ -19,5 +19,3 @@ This repository includes the **frontend** code for ScholarshipHub. For those int
 Feel free to reach out for the backend code, additional documentation, and further collaboration. This backend includes enhanced features such as user authentication, data validation, and secure submission handling.
 
 ---
-
-This message will give readers a clear path for following up if they want the backend code, while also positioning your project as a valuable tool for students and stakeholders interested in scholarship accessibility. Let me know if you’d like to add anything else!
